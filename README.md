@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://it20636524.io)
+[![MasterHead](https://1.bp.blogspot.com/-BC5REOdNzDU/XdW2Q3tTYFI/AAAAAAAAEao/wCTMj7VtRU4kUEBMBvFB_bYC90TqeWXEgCLcBGAsYHQ/s1600/2000_600px.gif)](https://it20636524.io)
 <h1 align="center">Hi 👋, I'm Prathibha Sathyanjalee</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://voigue.com/wp-content/uploads/2022/06/105668-virtual-assistant.gif">

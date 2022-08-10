@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-BC5REOdNzDU/XdW2Q3tTYFI/AAAAAAAAEao/wCTMj7VtRU4kUEBMBvFB_bYC90TqeWXEgCLcBGAsYHQ/s1600/2000_600px.gif)](https://it20636524.io)
 <h1 align="center">Hi 👋, I'm Prathibha Sathyanjalee</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="[https://voigue.com/wp-content/uploads/2022/06/105668-virtual-assistant.gif](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)">
+<img align="right" alt="Coding" width="400" src="https://myweb2002.w3spaces.com/New-PNC-Animated-Banners.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it20636524&label=Profile%20views&color=0e75b6&style=flat" alt="it20636524" /> </p>
 

@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prathibha-sathyanjalee-087954237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathibha-sathyanjalee-087954237" height="30" width="40" /></a>
-<a href="https://fb.com/prathibha sathyanjalee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prathibha sathyanjalee" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100080595211972" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prathibha sathyanjalee" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

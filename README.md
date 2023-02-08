@@ -1,5 +1,5 @@
 [![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)](https://it20636524.io)
-<h1 align="center">Hi 👋, I'm Prathibha Sathyanjalee</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="it20636524" /> , I'm Prathibha Sathyanjalee</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://voigue.com/wp-content/uploads/2022/06/105668-virtual-assistant.gif">
 

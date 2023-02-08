@@ -32,3 +32,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=it20636524&" alt="it20636524" /></p>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IT20636524)](https://github.com/ashutosh00710/github-readme-activity-graph)
+

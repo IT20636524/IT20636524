@@ -36,5 +36,5 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IT20636524&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+https://github-profile-trophy.vercel.app/?username=IT20636524&title=MultiLanguage,Commits,Stars,Repositories,Followers,PullRequest
 

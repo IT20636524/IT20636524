@@ -30,11 +30,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PrathibhaSathyanjalee&show_icons=true&locale=en" alt="PrathibhaSathyanjalee" /></p>
 
-<center>
+<!-- <center>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PrathibhaSathyanjalee&" alt="PrathibhaSathyanjalee" /></p>
-</center>
+</center> -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PrathibhaSathyanjalee&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PrathibhaSathyanjalee)](https://github.com/PrathibhaSathyanjalee/github-readme-activity-graph)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PrathibhaSathyanjalee&title=MultiLanguage,Commits,Stars,Repositories,Followers,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=PrathibhaSathyanjalee)](https://github.com/ryo-ma/github-profile-trophy)
 

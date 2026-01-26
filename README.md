@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/prathibha-sathyanjalee-087954237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathibha-sathyanjalee-087954237" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100080595211972" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prathibha sathyanjalee" height="30" width="40" /></a>
- <a href="https://www.instagram.com/psathyanjalee99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="psathyanjalee99" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/prathibha_sathya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prathibha_sathya" height="30" width="40" /></a>
  <a href="https://twitter.com/PSathyanjalee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="PSathyanjalee" height="30" width="40" /></a>
 </p>
 

@@ -34,7 +34,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PrathibhaSathyanjalee&" alt="PrathibhaSathyanjalee" /></p>
 </center> -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PrathibhaSathyanjalee)](https://github.com/PrathibhaSathyanjalee/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PrathibhaSathyanjalee&theme=react-dark)](https://github.com/PrathibhaSathyanjalee/github-readme-activity-graph)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=PrathibhaSathyanjalee&theme=onedark)](https://github.com/PrathibhaSathyanjalee/github-profile-trophy)
 

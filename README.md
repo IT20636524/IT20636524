@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **prathibhasathyanjalee@gmail.com**
 
-- ⚡ Fun fact **A proactive BSc. (Hons) in Information Technology student at the Sri Lanka Institute of Information Technology with strong academic achievement. Possess programming, strong communication, leadership and problem-solving skills with fluency in English and Sinhala. Keen to pursue a career in software engineering.**
+- ⚡ Fun fact **A proactive graduate with a BSc. (Hons) in Information Technology (Specialized in Software Engineering) from the Sri Lanka Institute of Information Technology (SLIIT), with strong academic achievement. Skilled in programming, communication, leadership, and problem-solving; fluent in English and Sinhala. Keen to pursue a career in software engineering.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
